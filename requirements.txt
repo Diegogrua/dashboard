@@ -1,8 +1,8 @@
 streamlit
 numpy
 pandas
-matplotlip
+matplotlib
 scipy
 seaborn
-ploty
+plotly
 datetime
